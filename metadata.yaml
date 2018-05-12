@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '44056'
     url: http://www.gutenberg.org/2009/agents/44056
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46136#History-of-the-Fan
 gutenberg_issued: '2014-06-29'
 gutenberg_type: Text
 identifiers:
